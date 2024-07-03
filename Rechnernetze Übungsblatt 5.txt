@@ -1,0 +1,44 @@
+Rechnernetze Übungsblatt 5
+
+Aufgabe 1:
+a) Croupier
+1-8 Kartendecks
+	Ränge {2-10, Bube, Dame, König, Ass}
+	Typen {Pik, Kreuz, Herz, Karo}
+Karten in der Hand
+Karten ausgeben
+
+
+b) Spieler
+Startkapital
+Karten in der Hand
+Spielaktionen
+	Hit
+	Stand
+	Split
+	Double Down
+	Surrender
+Wetteinsatz
+
+c) Kartenzähler
+nach Kartensets fragen
+nach ausgegebenen Karten fragen
+Aktion mit höchstem Erwartungswert für Spieler empfehlen
+Statistik für jedes Spiel
+	Spieler gewinnt
+	Spieler hat Blackjack
+	Liste der Karten, die insgesamt verwendet wurden
+
+Aufgabe 2:
+Auf welche Dinge müssen Sie achten, um sicherzustellen, dass die gesendeten Nachrichten beim
+Empfänger ankommen?
+Bestätigungsnachricht [nach bestimmter Zeit erneut senden]
+
+Wie können sie Fehlkommunikation vermeiden?
+Nachrichtenstandard (wie in Google Docs vorgeschlagen)
+
+Wie können sie sicherstellen, dass ihr Programm mit den 2 anderen Programmen kommunizieren kann und die Pakete so interpretiert, wie Sie das geplant haben?
+Einigung auf einen Standard, nicht nur was Nachrichten an sich sondern auch Nachrichteninhalt angeht
+
+Aufgabe 4:
+Ich konnte mein Programm nicht mit anderen testen, u.a. weil nicht alle den von Julian Hauck zur Verfügung gestellten Standard verwenden. Damit ich nicht mit Dummy-Klassen rumexperimentieren muss hab ich direkt Beispiele in den Code eingefügt, was dann für eine finale Version wieder geändert werden müsste. 
